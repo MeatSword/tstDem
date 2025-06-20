@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|c:\\users\\arthas\\source\\repos\\wpfapp1\\pages\\list.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|solutionrelative:pages\\list.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|solutionrelative:pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|C:\\Users\\Arthas\\source\\repos\\WpfApp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pages\\list.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|solutionrelative:pages\\list.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|C:\\Users\\Arthas\\source\\repos\\WpfApp1\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|solutionrelative:model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|C:\\Users\\Arthas\\source\\repos\\WpfApp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|solutionrelative:pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|C:\\Users\\Arthas\\source\\repos\\WpfApp1\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B57A8D97-2078-4BAB-A757-D6D08E6F87E2}|WpfApp1.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\Model1.Context.cs",
+              "RelativeToolTip": "Model1.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:43:01.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "list.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pAGES\\list.xaml.cs",
+              "RelativeDocumentMoniker": "pAGES\\list.xaml.cs",
+              "ToolTip": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pAGES\\list.xaml.cs",
+              "RelativeToolTip": "pAGES\\list.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:40:27.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "list.xaml",
+              "DocumentMoniker": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pAGES\\list.xaml",
+              "RelativeDocumentMoniker": "pAGES\\list.xaml",
+              "ToolTip": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pAGES\\list.xaml",
+              "RelativeToolTip": "pAGES\\list.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T18:59:48.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pAGES\\Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pAGES\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "pAGES\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pAGES\\Page1.xaml.cs",
+              "RelativeToolTip": "pAGES\\Page1.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:25:29.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pAGES\\Page1.xaml",
+              "RelativeDocumentMoniker": "pAGES\\Page1.xaml",
+              "ToolTip": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\pAGES\\Page1.xaml",
+              "RelativeToolTip": "pAGES\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T19:23:11.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-20T18:52:21.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T17:49:02.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Arthas\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:49:02.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
